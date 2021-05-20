@@ -8,4 +8,4 @@ This repository contains IMHO Minimal lib for create SAN model, all the code in 
 
 
 ## Weights 
-[lol](https://drive.google.com/file/d/1rEQuGkAPFnnVscofZDmfQkRXWOcr_HEW/view?usp=sharing)
+You can load already created [weights](https://drive.google.com/file/d/1rEQuGkAPFnnVscofZDmfQkRXWOcr_HEW/view?usp=sharing) by using notebook in create_state_dict dir.
